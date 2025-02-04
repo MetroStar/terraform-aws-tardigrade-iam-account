@@ -4,7 +4,7 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
-### [3.0.0](https://github.com/plus3it/terraform-aws-tardigrade-config/releases/tag/3.0.0)
+### [3.0.0](https://github.com/MetroStar/terraform-aws-tardigrade-config/releases/tag/3.0.0)
 
 **Released**: 2024.09.05
 
@@ -18,7 +18,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 **Released**: 2020.02.06
 
-**Commit Delta**: [Change from 1.0.4 release](https://github.com/plus3it/terraform-aws-tardigrade-iam-account/compare/1.0.4...1.1.0)
+**Commit Delta**: [Change from 1.0.4 release](https://github.com/MetroStar/terraform-aws-tardigrade-iam-account/compare/1.0.4...1.1.0)
 
 **Summary**:
 
@@ -28,7 +28,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 **Released**: 2019.10.28
 
-**Commit Delta**: [Change from 1.0.3 release](https://github.com/plus3it/terraform-aws-tardigrade-iam-account/compare/1.0.3...1.0.4)
+**Commit Delta**: [Change from 1.0.3 release](https://github.com/MetroStar/terraform-aws-tardigrade-iam-account/compare/1.0.3...1.0.4)
 
 **Summary**:
 
@@ -40,7 +40,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 **Released**: 2019.10.17
 
-**Commit Delta**: [Change from 1.0.2 release](https://github.com/plus3it/terraform-aws-tardigrade-iam-account/compare/1.0.2...1.0.3)
+**Commit Delta**: [Change from 1.0.2 release](https://github.com/MetroStar/terraform-aws-tardigrade-iam-account/compare/1.0.2...1.0.3)
 
 **Summary**:
 
@@ -50,7 +50,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 **Released**: 2019.10.03
 
-**Commit Delta**: [Change from 1.0.1 release](https://github.com/plus3it/terraform-aws-tardigrade-iam-account/compare/1.0.1...1.0.2)
+**Commit Delta**: [Change from 1.0.1 release](https://github.com/MetroStar/terraform-aws-tardigrade-iam-account/compare/1.0.1...1.0.2)
 
 **Summary**:
 
@@ -60,7 +60,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 **Released**: 2019.09.23
 
-**Commit Delta**: [Change from 1.0.0 release](https://github.com/plus3it/terraform-aws-tardigrade-iam-account/compare/1.0.0...1.0.1)
+**Commit Delta**: [Change from 1.0.0 release](https://github.com/MetroStar/terraform-aws-tardigrade-iam-account/compare/1.0.0...1.0.1)
 
 **Summary**:
 
@@ -71,7 +71,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 **Released**: 2019.09.06
 
-**Commit Delta**: [Change from 0.0.0 release](https://github.com/plus3it/terraform-aws-tardigrade-iam-account/compare/0.0.0...1.0.0)
+**Commit Delta**: [Change from 0.0.0 release](https://github.com/MetroStar/terraform-aws-tardigrade-iam-account/compare/0.0.0...1.0.0)
 
 **Summary**:
 
